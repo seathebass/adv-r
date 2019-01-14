@@ -541,7 +541,7 @@ Given these drawbacks, you might wonder why we introduced new syntax instead of 
 * The are visually strong and don't look like existing syntax. When you 
   see `!!x` or `!!!x` it's clear that something unusual is happening.
   
-* They overrides a rarely used piece of syntax, as double negation is not a
+* They override a rarely used piece of syntax, as double negation is not a
   common pattern in R[^js-double-neg]. If you you do need it, you can just
   add parentheses `!(!x)`.
 
